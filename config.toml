@@ -1,0 +1,38 @@
+baseURL = 'http://blog.cjpais.com/'
+languageCode = 'en-us'
+title = 'CJs Blog'
+theme = 'cactus'
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Writings"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[params]
+  colortheme = "light" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+  mainSection = "posts" # your main section
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = false # show tags overview by default.
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "Monday January 2, 2006"
+
+  [[params.social]]
+  name = "github"
+  link = "https://github.com/cjpais"
+  [[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/cj_pais"
