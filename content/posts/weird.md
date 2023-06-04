@@ -24,9 +24,6 @@ some videos and photos i want to put somewhere of me being weird the last few mo
 {{< youtube fI417g4pyok>}}
 
 
-![mov1](/images/weird/IMG_5426.MOV)
-![mov2](/images/weird/IMG_5482.MOV)
-![mov3](/images/weird/IMG_5494.MOV)
 ![licklick.jpeg](/images/weird/licklick.jpeg)
 ![nicejacket.jpeg](/images/weird/nicejacket.jpeg)
 ![slackline.jpeg](/images/weird/slackline.jpeg)
