@@ -1,6 +1,6 @@
 ---
 title: "Weird"
-date: 2023-06-04T15:17:00-08:00
+date: 2023-06-04T12:17:00-08:00
 draft: false
 tags:
     - sevenposts23
