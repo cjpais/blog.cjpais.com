@@ -16,6 +16,14 @@ some videos and photos i want to put somewhere of me being weird the last few mo
 ![feetcomputer.jpeg](/images/weird/feetcomputer.jpeg)
 ![fire.jpeg](/images/weird/fire.jpeg)
 ![idk.jpeg](/images/weird/idk.jpeg)
+
+{{< youtube -LJnujTzuU0>}}
+
+{{< youtube IQ48fEDLFFU>}}
+
+{{< youtube fI417g4pyok>}}
+
+
 ![mov1](/images/weird/IMG_5426.MOV)
 ![mov2](/images/weird/IMG_5482.MOV)
 ![mov3](/images/weird/IMG_5494.MOV)
