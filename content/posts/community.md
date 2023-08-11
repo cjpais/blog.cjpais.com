@@ -1,6 +1,6 @@
 ---
 title: "Community Feels Like"
-date: 2023-08-10T18:25:00-07:00
+date: 2023-08-10T18:00:00-07:00
 draft: false
 ---
 
