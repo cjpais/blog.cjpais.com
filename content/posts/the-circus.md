@@ -29,3 +29,11 @@ A few days later I was walking home from the local burrito joint and I run into 
 ![circus truck](/images/circus/truck.jpeg)
 
 Found the circus. Guess I'm going Tuesday (thanks Dave for the push)
+
+---
+
+raw audio message
+
+{{ < rawhtml >}}
+    <audio src="/images/slackline/circus-raw.m4a" controls></audio>
+{{ < /rawhtml > }}
