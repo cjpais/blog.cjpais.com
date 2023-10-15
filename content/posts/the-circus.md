@@ -18,6 +18,14 @@ I walked across to the other side and another man notices me. He seems to be a m
 
 Suddenly the conversation changes. He tells me he runs the circus and hands me a flyer and invites me to come. Stunned I take the flyer. He is explaining some of the acts as I try to keep up. Trying to understand what the hell just happened. I go along, still utterly surprised. I tell him I really would like to learn how to juggle and I would love to show more people how to slackline if he’s interested. He doesn’t say much else, other than to come by some time. 
 
+![flyer](/images/slackline/flyer.jpeg)
+
 I am beside myself, confused, ecstatic, grateful, and laughing my pants off. I guess I am a circus performer.
 
 This series of events had to be some kind of joke from the universe. The timing of these events. Laughing off being a performer, only to be seen as a performer from someone in the industry. The closeness of these events was just hilarious and I can only be thankful for them happening in such a way. It’s quite mysterious how “coincidences” happen sometimes. The energy is just there.
+
+A few days later I was walking home from the local burrito joint and I run into this
+
+![circus truck](/images/slackline/truck.jpeg)
+
+Found the circus. Guess I'm going Tuesday (thanks Dave for the push)
