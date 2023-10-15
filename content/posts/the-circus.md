@@ -34,6 +34,4 @@ Found the circus. Guess I'm going Tuesday (thanks Dave for the push)
 
 raw audio message
 
-{{ < rawhtml >}}
-    <audio src="/images/slackline/circus-raw.mp3" controls></audio>
-{{ < /rawhtml > }}
+<audio src="/images/slackline/circus-raw.mp3" controls></audio>
