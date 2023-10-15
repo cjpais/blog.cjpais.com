@@ -4,8 +4,6 @@ date: 2023-10-15T12:15:00-07:00
 draft: false
 ---
 
-The Circus
-
 It was a slow day slacklining at the park for me. I was on the line, playing around, listening to music and generally just having a good time. Every now and then I would catch someone’s attention, but some reason most people seem not to notice me floating a few feet in the air. Some walk a few feet away from me without even acknowledging the line exists at all. Not to mention there is someone walking on it. This blows my mind more than anything. Even knowing how to slackline myself I find myself still amazed by it every day. I find it quite ridiculous that it’s even possible. 
 
 After an hour or so I catch the attention of some older man in the park who’s going by. I’d just fallen off the line. He opened the conversation with “do you perform anywhere?”. I was baffled. The kind of baffled that makes me shake my head rapidly and make the sound “bbbbbbbb”. 
