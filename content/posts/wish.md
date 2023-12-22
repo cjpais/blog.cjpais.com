@@ -126,3 +126,4 @@ inspired by [taylor](https://taylor.town/wish). found his site somehow, saw he h
 * Pure aloha
 * Better tax system
 * Going to space w my dad (who knows... $10/kg => $1400?)
+* Meaningful
